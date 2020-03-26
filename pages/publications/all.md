@@ -5,7 +5,6 @@ title: Publications
 draft: false
 ---
 
-## Related publications 
 
 {% include get_pub_list.html %}
 
